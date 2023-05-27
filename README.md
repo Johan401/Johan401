@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Zamora</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on [Tochless Experiance](http://35.209.200.39/2bc5ddfe-cbca-4987-8936-dc44f72ecd96)
+- 🔭 I’m currently working on [Tochless Experiance (It is important to place the resposive in cell phone size)](http://35.209.200.39/2bc5ddfe-cbca-4987-8936-dc44f72ecd96)
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
