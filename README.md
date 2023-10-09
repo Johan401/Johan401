@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Johan Zamora</h1>
+<h1 align="center">Johan Zamora / Software Developer</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
 - 👯 I’m looking to collaborate on [One Automata Page](https://oneautomata.com/)
 
-- 💬 Ask me about **React, JS, HTML, CSS, AWS**
+- 💬 Technologies that I know: **React, JS, HTML, CSS, AWS**
 
-- 📫 How to reach me **johanzamora14@gmail.com**
+- 📫 Contact me: **johanzamora14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
